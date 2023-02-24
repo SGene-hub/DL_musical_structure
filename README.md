@@ -1,7 +1,7 @@
 # DL_musical_structure
 Final Project for CPS452/552 'Deep Learning Theory and Applications'
 
-This repositort holds the final project for the aforementioned class. The aim of the project is to perform automated musical analysis, given a MIDI file as input. A Convolutional NN, as well as a LSTM and a Transformer have been developed to perform this task. Our models outputs an ordered, sequence of phrases. Consider the follownig output example:
+This reposiitory holds the final project for the aforementioned class. The aim of the project is to perform automated musical analysis, given a MIDI file as input. A Convolutional NN, as well as a LSTM NN and a Transformer NN have been developed to perform this task. Our models outputs an ordered sequence of phrases. Consider the follownig output example:
 
 i4A4B8A4A4b4B8A4A4b4b4A4A4b4A4o3
 
